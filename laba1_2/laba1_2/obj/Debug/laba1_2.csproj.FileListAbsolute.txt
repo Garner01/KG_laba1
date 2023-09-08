@@ -1,0 +1,9 @@
+H:\vs\laba1_2\laba1_2\bin\Debug\laba1_2.exe.config
+H:\vs\laba1_2\laba1_2\bin\Debug\laba1_2.exe
+H:\vs\laba1_2\laba1_2\bin\Debug\laba1_2.pdb
+H:\vs\laba1_2\laba1_2\obj\Debug\laba1_2.csproj.AssemblyReference.cache
+H:\vs\laba1_2\laba1_2\obj\Debug\laba1_2.Properties.Resources.resources
+H:\vs\laba1_2\laba1_2\obj\Debug\laba1_2.csproj.GenerateResource.cache
+H:\vs\laba1_2\laba1_2\obj\Debug\laba1_2.csproj.CoreCompileInputs.cache
+H:\vs\laba1_2\laba1_2\obj\Debug\laba1_2.exe
+H:\vs\laba1_2\laba1_2\obj\Debug\laba1_2.pdb
